@@ -1,1 +1,1 @@
-# js-assignment || Assignment 4 || Programming Hero
+# Basic javaScript-assignment || Assignment 4 || Programming Hero
